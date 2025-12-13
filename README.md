@@ -1,16 +1,14 @@
 # Complete Interview Preparation - Python Implementation
 
-## 📚 Overview
-
-This repository contains **complete Python implementations** of all interview topics for DSA, Web Frameworks, AWS, and System Design. Follow this roadmap from start to finish to master everything you need for technical interviews.
+This repository has Python implementations for DSA, Web Frameworks, AWS, and System Design interview topics. Follow the roadmap below to learn everything step by step.
 
 ---
 
-## 🗺️ Complete Learning Roadmap
+## Complete Learning Roadmap
 
-### **Phase 1: Foundation (Week 1-2)** - Start Here! 🎯
+### Phase 1: Foundation (Week 1-2) - Start Here
 
-Master the fundamentals before moving to advanced topics.
+Get comfortable with the basics before moving to advanced topics.
 
 | # | Topic | File | Difficulty | Frequency | What You'll Learn |
 |---|-------|------|------------|-----------|-------------------|
@@ -20,13 +18,13 @@ Master the fundamentals before moving to advanced topics.
 | 4 | **Group Anagrams** | [`dsa/arrays_strings/group_anagrams.py`](dsa/arrays_strings/group_anagrams.py) | Medium | 80% ⭐⭐⭐⭐ | Hash map, string manipulation |
 | 5 | **Merge Sorted Array** | [`dsa/arrays_strings/merge_sorted_array.py`](dsa/arrays_strings/merge_sorted_array.py) | Easy | 85% ⭐⭐⭐⭐⭐ | Two pointers, in-place merge |
 
-**Goal**: Complete 5 problems, understand hash maps and two pointers.
+Complete these 5 problems to understand hash maps and two pointers.
 
 ---
 
-### **Phase 2: Core Patterns (Week 3-4)** - Most Important! ⭐
+### Phase 2: Core Patterns (Week 3-4) - Most Important
 
-Master these 8 patterns = Solve 90% of all interview problems.
+These 8 patterns cover about 90% of interview problems. Master them.
 
 | # | Topic | File | Difficulty | Frequency | Pattern |
 |---|-------|------|------------|-----------|--------|
@@ -37,11 +35,11 @@ Master these 8 patterns = Solve 90% of all interview problems.
 | 10 | **Maximum Subarray** | [`dsa/arrays_strings/maximum_subarray.py`](dsa/arrays_strings/maximum_subarray.py) | Easy | 90% ⭐⭐⭐⭐⭐ | Kadane's algorithm |
 | 11 | **Trapping Rain Water** | [`dsa/arrays_strings/trapping_rain_water.py`](dsa/arrays_strings/trapping_rain_water.py) | Hard | 85% ⭐⭐⭐⭐⭐ | Two pointers, stack, DP |
 
-**Goal**: Master 8 core patterns, solve 6 medium-hard problems.
+Master these 8 core patterns and solve 6 medium-hard problems.
 
 ---
 
-### **Phase 3: Linked Lists (Week 5)** - Data Structures
+### Phase 3: Linked Lists (Week 5)
 
 | # | Topic | File | Difficulty | Frequency | Key Concept |
 |---|-------|------|------------|-----------|-------------|
@@ -51,11 +49,11 @@ Master these 8 patterns = Solve 90% of all interview problems.
 | 15 | **Merge Two Sorted Lists** | [`dsa/linked_lists/merge_two_sorted_lists.py`](dsa/linked_lists/merge_two_sorted_lists.py) | Easy | 90% ⭐⭐⭐⭐⭐ | Merge algorithm |
 | 16 | **Remove Nth Node** | [`dsa/linked_lists/remove_nth_node.py`](dsa/linked_lists/remove_nth_node.py) | Medium | 85% ⭐⭐⭐⭐⭐ | Two pointers on linked list |
 
-**Goal**: Master linked list operations, understand pointer manipulation.
+Learn linked list operations and pointer manipulation.
 
 ---
 
-### **Phase 4: Trees (Week 6)** - Tree Algorithms
+### Phase 4: Trees (Week 6)
 
 | # | Topic | File | Difficulty | Frequency | Key Concept |
 |---|-------|------|------------|-----------|-------------|
@@ -63,11 +61,11 @@ Master these 8 patterns = Solve 90% of all interview problems.
 | 18 | **Invert Binary Tree** | [`dsa/trees/invert_binary_tree.py`](dsa/trees/invert_binary_tree.py) | Easy | 85% ⭐⭐⭐⭐⭐ | Tree recursion |
 | 19 | **Maximum Path Sum** | [`dsa/trees/max_path_sum.py`](dsa/trees/max_path_sum.py) | Hard | 75% ⭐⭐⭐⭐ | Tree DP, DFS |
 
-**Goal**: Master tree traversals, understand recursive tree algorithms.
+Master tree traversals and recursive tree algorithms.
 
 ---
 
-### **Phase 5: Graphs (Week 7)** - Graph Algorithms
+### Phase 5: Graphs (Week 7)
 
 | # | Topic | File | Difficulty | Frequency | Key Concept |
 |---|-------|------|------------|-----------|-------------|
@@ -75,11 +73,11 @@ Master these 8 patterns = Solve 90% of all interview problems.
 | 21 | **Clone Graph** | [`dsa/graphs/clone_graph.py`](dsa/graphs/clone_graph.py) | Medium | 80% ⭐⭐⭐⭐ | Graph traversal, hash map |
 | 22 | **Course Schedule** | [`dsa/graphs/course_schedule.py`](dsa/graphs/course_schedule.py) | Medium | 75% ⭐⭐⭐⭐ | Topological sort |
 
-**Goal**: Master DFS/BFS, understand graph traversal patterns.
+Master DFS/BFS and graph traversal patterns.
 
 ---
 
-### **Phase 6: Dynamic Programming (Week 8-9)** - Optimization
+### Phase 6: Dynamic Programming (Week 8-9)
 
 | # | Topic | File | Difficulty | Frequency | Key Concept |
 |---|-------|------|------------|-----------|-------------|
@@ -89,11 +87,11 @@ Master these 8 patterns = Solve 90% of all interview problems.
 | 26 | **Edit Distance** | [`dsa/dynamic_programming/edit_distance.py`](dsa/dynamic_programming/edit_distance.py) | Hard | 75% ⭐⭐⭐⭐ | 2D DP, string matching |
 | 27 | **Longest Increasing Subsequence** | [`dsa/dynamic_programming/longest_increasing_subsequence.py`](dsa/dynamic_programming/longest_increasing_subsequence.py) | Medium | 80% ⭐⭐⭐⭐ | DP, binary search optimization |
 
-**Goal**: Master DP thinking, understand memoization vs tabulation.
+Master DP thinking and understand memoization vs tabulation.
 
 ---
 
-### **Phase 7: Backtracking (Week 10)** - Explore All Possibilities
+### Phase 7: Backtracking (Week 10)
 
 | # | Topic | File | Difficulty | Frequency | Key Concept |
 |---|-------|------|------------|-----------|-------------|
@@ -101,64 +99,64 @@ Master these 8 patterns = Solve 90% of all interview problems.
 | 29 | **Subsets** | [`dsa/backtracking/subsets.py`](dsa/backtracking/subsets.py) | Medium | 75% ⭐⭐⭐⭐ | Backtracking, power set |
 | 30 | **N-Queens** | [`dsa/backtracking/n_queens.py`](dsa/backtracking/n_queens.py) | Hard | 70% ⭐⭐⭐ | Classic backtracking |
 
-**Goal**: Master backtracking pattern, understand state space exploration.
+Master the backtracking pattern and state space exploration.
 
 ---
 
-### **Phase 8: Greedy Algorithms (Week 11)** - Optimization
+### Phase 8: Greedy Algorithms (Week 11)
 
 | # | Topic | File | Difficulty | Frequency | Key Concept |
 |---|-------|------|------------|-----------|-------------|
 | 31 | **Jump Game** | [`dsa/greedy/jump_game.py`](dsa/greedy/jump_game.py) | Medium | 75% ⭐⭐⭐⭐ | Greedy, reachability |
 | 32 | **Merge Intervals** | [`dsa/greedy/merge_intervals.py`](dsa/greedy/merge_intervals.py) | Medium | 85% ⭐⭐⭐⭐⭐ | Sorting, interval merging |
 
-**Goal**: Understand when to use greedy vs DP.
+Understand when to use greedy vs DP.
 
 ---
 
-### **Phase 9: Advanced Data Structures (Week 12)** - Heaps & Tries
+### Phase 9: Advanced Data Structures (Week 12)
 
 | # | Topic | File | Difficulty | Frequency | Key Concept |
 |---|-------|------|------------|-----------|-------------|
 | 33 | **Top K Frequent** | [`dsa/heaps/top_k_frequent.py`](dsa/heaps/top_k_frequent.py) | Medium | 80% ⭐⭐⭐⭐ | Heap, bucket sort |
 | 34 | **Implement Trie** | [`dsa/tries/trie.py`](dsa/tries/trie.py) | Medium | 70% ⭐⭐⭐ | Prefix tree, autocomplete |
 
-**Goal**: Master heap operations, understand trie structure.
+Master heap operations and the trie structure.
 
 ---
 
-### **Phase 10: Design Patterns (Week 13)** - System Design Basics
+### Phase 10: Design Patterns (Week 13)
 
 | # | Topic | File | Difficulty | Frequency | Key Concept |
 |---|-------|------|------------|-----------|-------------|
 | 35 | **LRU Cache** | [`dsa/design_patterns/lru_cache.py`](dsa/design_patterns/lru_cache.py) | Medium | 85% ⭐⭐⭐⭐⭐ | Hash map + doubly linked list |
 
-**Goal**: Implement O(1) operations, understand cache eviction.
+Implement O(1) operations and understand cache eviction.
 
 ---
 
-### **Phase 11: Additional String Problems (Week 13)** - Advanced Strings
+### Phase 11: Additional String Problems (Week 13)
 
 | # | Topic | File | Difficulty | Frequency | Key Concept |
 |---|-------|------|------------|-----------|-------------|
 | 36 | **Longest Palindromic Substring** | [`dsa/arrays_strings/longest_palindromic_substring.py`](dsa/arrays_strings/longest_palindromic_substring.py) | Medium | 80% ⭐⭐⭐⭐ | Expand around centers, DP |
 
-**Goal**: Master palindrome detection algorithms.
+Master palindrome detection algorithms.
 
 ---
 
-### **Phase 12: Web Frameworks (Week 14)** - Python Backend
+### Phase 12: Web Frameworks (Week 14)
 
 | # | Topic | File | Difficulty | What You'll Learn |
 |---|-------|------|------------|-------------------|
 | 37 | **Flask REST API** | [`web_frameworks/flask_api/app.py`](web_frameworks/flask_api/app.py) | Intermediate | REST API, JWT auth, CRUD operations |
 | 38 | **FastAPI Async API** | [`web_frameworks/fastapi_api/main.py`](web_frameworks/fastapi_api/main.py) | Intermediate | Async/await, auto docs, type hints |
 
-**Goal**: Build production-ready REST APIs, understand authentication.
+Build production-ready REST APIs and understand authentication.
 
 ---
 
-### **Phase 13: AWS Python SDK (Week 15)** - Cloud Services
+### Phase 13: AWS Python SDK (Week 15)
 
 | # | Topic | File | Difficulty | What You'll Learn |
 |---|-------|------|------------|-------------------|
@@ -167,11 +165,11 @@ Master these 8 patterns = Solve 90% of all interview problems.
 | 41 | **Lambda Functions** | [`aws/lambda_examples/lambda_function.py`](aws/lambda_examples/lambda_function.py) | Intermediate | Serverless functions, triggers |
 | 42 | **DynamoDB CRUD** | [`aws/dynamodb_examples/dynamodb_crud.py`](aws/dynamodb_examples/dynamodb_crud.py) | Intermediate | NoSQL database operations |
 
-**Goal**: Master AWS SDK, understand cloud architecture.
+Master AWS SDK and understand cloud architecture.
 
 ---
 
-### **Phase 14: System Design Patterns (Week 16)** - Scalability
+### Phase 14: System Design Patterns (Week 16)
 
 | # | Topic | File | Difficulty | What You'll Learn |
 |---|-------|------|------------|-------------------|
@@ -180,16 +178,15 @@ Master these 8 patterns = Solve 90% of all interview problems.
 | 45 | **Message Queue** | [`system_design/message_queue.py`](system_design/message_queue.py) | Advanced | Producer-consumer pattern |
 | 46 | **Cache Strategies** | [`system_design/cache_strategies.py`](system_design/cache_strategies.py) | Advanced | FIFO, LFU, time-based cache |
 
-**Goal**: Design scalable systems, understand distributed patterns.
+Design scalable systems and understand distributed patterns.
 
 ---
 
-## 🚀 Quick Start
+## Getting Started
 
 ### Installation
 
 ```bash
-# Install dependencies
 pip install -r requirements.txt
 ```
 
@@ -211,9 +208,7 @@ pytest tests/ -v
 
 ---
 
-## 📊 Progress Tracking
-
-### Week-by-Week Goals
+## Progress Tracking
 
 | Week | Phase | Problems | Goal |
 |------|-------|----------|------|
@@ -231,11 +226,11 @@ pytest tests/ -v
 | 15 | AWS | 4 services | Master AWS SDK |
 | 16 | System Design | 4 patterns | Design scalable systems |
 
-**Total: 46 problems/patterns = 90%+ Interview Ready! 🎯**
+**Total: 46 problems/patterns**
 
 ---
 
-## 💡 Key Patterns Summary
+## Key Patterns
 
 1. **Sliding Window** - Substring/subarray problems
 2. **Two Pointers** - Sorted array problems
@@ -252,21 +247,9 @@ pytest tests/ -v
 
 ---
 
-## 📝 Study Tips
+## Success Checklist
 
-1. **Follow the Order**: Complete phases sequentially
-2. **Understand First**: Don't memorize, understand the pattern
-3. **Practice Daily**: 2-3 problems per day
-4. **Time Yourself**: Target 30-45 mins per medium problem
-5. **Review Complexity**: Always analyze time/space complexity
-6. **Test Edge Cases**: Empty, single element, duplicates
-7. **Explain Aloud**: Practice explaining your approach
-
----
-
-## 🎯 Success Checklist
-
-Before your interview, ensure you can:
+Before your interview:
 - [ ] Solve Two Sum in < 5 minutes
 - [ ] Explain time/space complexity for all solutions
 - [ ] Implement LRU Cache from scratch
@@ -275,43 +258,3 @@ Before your interview, ensure you can:
 - [ ] Explain system design patterns
 - [ ] Handle edge cases in all problems
 - [ ] Code without looking at solutions
-
----
-
-## 📚 Additional Resources
-
-- **LeetCode**: Practice platform (use company tags)
-- **NeetCode.io**: Pattern-based learning
-- **This Repository**: All implementations ready to use
-
----
-
-## 🏢 Company-Specific Focus
-
-### Google
-- Focus: Graphs (25%), Matrices (25%)
-- Key Problems: Number of Islands, Clone Graph, Course Schedule
-
-### Amazon
-- Focus: Arrays (25%), DP (25%)
-- Key Problems: Two Sum, Coin Change, House Robber
-
-### Microsoft
-- Focus: Strings (20%), DP (20%)
-- Key Problems: Longest Substring, Edit Distance
-
-### Meta
-- Focus: Graph (25%), Tree (20%)
-- Key Problems: Clone Graph, LRU Cache, Course Schedule
-
-### Apple
-- Focus: Tree (25%), Array (20%)
-- Key Problems: Tree Traversals, Merge Sorted Array
-
----
-
-## 🎉 You're Ready!
-
-Follow this roadmap from start to finish, and you'll be **90%+ interview ready** in 16 weeks. Start with Phase 1 today! 🚀
-
-**Good luck with your interviews!** 💪
