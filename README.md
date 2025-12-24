@@ -258,3 +258,11 @@ Before your interview:
 - [ ] Explain system design patterns
 - [ ] Handle edge cases in all problems
 - [ ] Code without looking at solutions
+
+---
+
+## Additional Resources
+
+### Study Materials
+
+- **DSA Study Material**: [Google Docs](https://docs.google.com/document/d/1Hqp0qsh_-t59ygydJ-hgLW7vbZEl6UWP-TXzXfFgJUM/edit?tab=t.0) - Comprehensive DSA study guide and reference material
